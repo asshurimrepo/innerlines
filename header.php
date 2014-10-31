@@ -36,6 +36,11 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
+
+		<div>
+			<a href="#"><img src="<?=asset('img/logo.svg')?>" class="img-responsive logo"/></a>
+		</div>
+
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header page-scroll">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -44,8 +49,6 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-
-			<a href="#"><img src="<?=asset('img/logo.svg')?>" class="img-responsive logo"/></a>
 			<!-- <a class="navbar-brand" href="#page-top">Start Bootstrap <img src="img/logo-with-bg.jpg" alt="" class="img-responsive"/></a> -->
 		</div>
 
