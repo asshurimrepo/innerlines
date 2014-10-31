@@ -31,7 +31,9 @@
 
 </head>
 
-<body id="page-top" class="index" style="padding-top: 120px;">
+<body id="page-top" class="index">
+
+<div class="pads hidden-xs" style="padding-top: 120px;"></div>
 
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
