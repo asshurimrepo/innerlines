@@ -474,5 +474,5 @@ footer .footer-below {
 
 
 .logo{
-    width: 50%;
+    max-width: 612px;
 }
