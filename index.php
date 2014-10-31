@@ -53,7 +53,7 @@
                     
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="img/sales-icon.png" class="img-responsive">
+                            <img src="<?=asset('img/sales-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
                             <h4>Sales Marathon</h4>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="img/think-icon.png" class="img-responsive">
+                            <img src="<?=asset('img/think-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
                             <h4>Service Power</h4>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="img/power-icon.png" class="img-responsive">
+                            <img src="<?=asset('img/think-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
                             <h4>Think!</h4>
@@ -80,7 +80,7 @@
                     </div>
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="img/goals-icon.png" class="img-responsive">
+                            <img src="<?=asset('img/goals-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
                             <h4>Goals</h4>
@@ -95,7 +95,7 @@
                 </div>
 
                 <div class="col-sm-6 hidden-xs">
-                    <div class="woman"><img src="img/woman.png" class="img-responsive"></div>
+                    <div class="woman"><img src="<?=asset('img/goals-icon.png')?>" class="img-responsive"></div>
                 </div>
             </div>
         </div>
