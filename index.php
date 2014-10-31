@@ -29,7 +29,7 @@
                     <!-- <hr class="star-primary"> -->
                 </div>
             </div>
-            <div class="row" style="height: 600px;">
+            <div class="row">
                 <div class="col-md-12">
                     <h4 class="classic"><em>Your True Journey</em></h4>
                     <p>I am very excited and thrilled to get the opportunity of introducing INNERLINES Experience to the world!<br>INNERLINES Training has a simple mission statement: <b><em>Guiding your inner focus to endless potential</em></b>.
@@ -102,7 +102,7 @@
     </section>
 
     <section style="padding-top:0">
-        <img src="img/layout.jpg" class="img-responsive" style="width:100%">
+        <img src="<?=asset('img/layout.jpg')?>" class="img-responsive" style="width:100%">
     </section>
 
     <section style="padding-top:0; padding-bottom:150px; "> 
@@ -144,16 +144,16 @@
             <div class="col-md-4 small-contacts">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="img/smile-face.png" class="img-responsive smile-face">
+                        <img src="<?=asset('img/smile-face.png')?>" class="img-responsive smile-face">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="img/email-icon.png" class="img-responsive">
+                        <img src="<?=asset('img/email-icon.png')?>" class="img-responsive">
                         <span>123-456-789</span>
                     </div>
                     <div class="col-md-6">
-                        <img src="img/email-icon.png" class="img-responsive">
+                        <img src="<?=asset('img/email-icon.png')?>" class="img-responsive">
                         <span>innerlines@email.com</span>
                     </div>
                 </div>
