@@ -117,7 +117,7 @@
                         </div>
                     
                         <div class="presentation text-center">
-                            <img src="img/laptop.png" class="img-responsive">
+                            <img src="<?=asset('img/laptop.png')?>" class="img-responsive">
                         </div>
                     </div>
                 </div>
