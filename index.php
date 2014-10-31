@@ -95,7 +95,7 @@
                 </div>
 
                 <div class="col-sm-6 hidden-xs">
-                    <div class="woman"><img src="<?=asset('img/goals-icon.png')?>" class="img-responsive"></div>
+                    <div class="woman"><img src="<?=asset('img/woman.png')?>" class="img-responsive"></div>
                 </div>
             </div>
         </div>
