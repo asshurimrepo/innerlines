@@ -34,6 +34,7 @@
 <body id="page-top" class="index">
 
 <div class="pads hidden-xs" style="padding-top: 120px;"></div>
+<div class="pads visible-xs" style="padding-top: 66px;"></div>
 
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
