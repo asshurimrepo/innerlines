@@ -45,7 +45,7 @@
 				<span class="icon-bar"></span>
 			</button>
 
-			<a href="#"><img src="<?=asset('img/logo.svg')?>" alt="" class="img-responsive"/></a>
+			<a href="#"><img src="<?=asset('img/logo.svg')?>" class="img-responsive logo"/></a>
 			<!-- <a class="navbar-brand" href="#page-top">Start Bootstrap <img src="img/logo-with-bg.jpg" alt="" class="img-responsive"/></a> -->
 		</div>
 
