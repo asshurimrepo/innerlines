@@ -2,9 +2,7 @@
 
 
     <!-- Header -->
-    <header style="background: url('<?=asset('img/full-image.jpg')?>') no-repeat center; background-size: cover; margin-top: 135px;">
-
-
+    <header style="background: url('<?=asset('img/full-image.jpg')?>') no-repeat center; background-size: cover;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
