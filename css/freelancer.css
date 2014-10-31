@@ -476,3 +476,7 @@ footer .footer-below {
 .logo{
     max-width: 240px;
 }
+
+.navbar-default{
+    border-bottom: 2px solid #f79123;
+}
