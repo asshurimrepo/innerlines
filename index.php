@@ -18,29 +18,6 @@
         </div>
     </header>
 
-    
-
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>Innerlines Experience</h3>
-                    <!-- <hr class="star-primary"> -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h4 class="classic"><em>Your True Journey</em></h4>
-                    <p>I am very excited and thrilled to get the opportunity of introducing INNERLINES Experience to the world!<br>INNERLINES Training has a simple mission statement: <b><em>Guiding your inner focus to endless potential</em></b>.
-                    </p>
-                    <p>INNERLINES core believe is that any development or achievement, to be efficient and lasting, it should</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
     <section style="padding-bottom:0">
         <div class="container">
             <div class="row destination">
