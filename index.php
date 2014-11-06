@@ -33,7 +33,7 @@
                             <img src="<?=asset('img/sales-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
-                            <h4>Sales Marathon</h4>
+                            <h4 class="no-margin">Sales Marathon</h4>
                             <span>Be the best sales manager you`ll ever be.</span>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                             <img src="<?=asset('img/think-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
-                            <h4>Service Power</h4>
+                            <h4 class="no-margin">Service Power</h4>
                             <span>Best way to quit smoking.</span>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                             <img src="<?=asset('img/think-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
-                            <h4>Think!</h4>
+                            <h4 class="no-margin">Think!</h4>
                             <span>Start my everyday with a smile</span>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                             <img src="<?=asset('img/goals-icon.png')?>" class="img-responsive">
                         </div>
                         <div class="col-md-10">
-                            <h4>Goals</h4>
+                            <h4 class="no-margin">Goals</h4>
                             <span>Success is a state of mind. If you want start thinking of yourself as a success.</span>
                         </div>
                     </div>

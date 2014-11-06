@@ -42,6 +42,7 @@ h6 {
     color: #1a1952;
 }
 
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -480,4 +481,8 @@ footer .footer-below {
 
 .navbar-default{
     border-bottom: 4px solid #f79123;
+}
+
+.no-margin{
+    margin: 0;
 }
