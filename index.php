@@ -39,7 +39,7 @@
                     </div>
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="<?=asset('img/think-icon.png')?>" class="img-responsive">
+                            <span class="circle"> <i class="fa fa-power-off"></i> </span>
                         </div>
                         <div class="col-md-10">
                             <h4 class="no-margin">Service Power</h4>
