@@ -48,7 +48,7 @@
                     </div>
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="<?=asset('img/think-icon.png')?>" class="img-responsive">
+                            <span class="circle"> <i class="fa fa-exclamation"></i> </span>
                         </div>
                         <div class="col-md-10">
                             <h4 class="no-margin">Think!</h4>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="<?=asset('img/goals-icon.png')?>" class="img-responsive">
+                            <span class="circle"> <i class="fa fa-bar-chart-o"></i> </span>
                         </div>
                         <div class="col-md-10">
                             <h4 class="no-margin">Goals</h4>
