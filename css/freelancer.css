@@ -486,3 +486,7 @@ footer .footer-below {
 .no-margin{
     margin: 0;
 }
+
+.circle{
+    border-radius: 50%;
+}

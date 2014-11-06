@@ -30,7 +30,7 @@
                     
                     <div class="row item">
                         <div class="col-md-2">
-                            <img src="<?=asset('img/sales-icon.png')?>" class="img-responsive">
+                            <span class="circle"> <i class="fa fa-tags"></i> </span>
                         </div>
                         <div class="col-md-10">
                             <h4 class="no-margin">Sales Marathon</h4>
