@@ -528,6 +528,10 @@ footer .footer-below {
     padding: 24px;
 }
 
+.grid .item ul{
+    list-style: none;
+}
+
 .grid .item .fa-check-circle{
     color: #ffb400;
 }
