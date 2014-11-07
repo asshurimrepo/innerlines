@@ -108,7 +108,7 @@
 
     <!-- About Section -->
     <section class="success" id="about" style="padding-bottom: 10px;">
-        <div class="container" style="margin-top: 91px;">
+        <div class="container" style="margin-top: 113px;">
             <div class="col-md-4">
                 <div class="row">
                     <div class="horizon-slice"></div>
@@ -120,7 +120,7 @@
                     <div class="col-sm-6 item"><a href="#">CONTACT US</a></div>
                 </div>
             </div>
-            <div class="col-md-4 small-contacts" style="margin-top: -170px;">
+            <div class="col-md-4 small-contacts" style="margin-top: -220px;">
                 <div class="row">
                     <div class="col-md-12">
                         <img src="<?=asset('img/smile-face.png')?>" class="img-responsive smile-face">
