@@ -507,5 +507,9 @@ footer .footer-below {
 
 .main-bg{
     background-color: #020025;
-    color: #FFF !important;
+    color: #FFF;
+}
+
+.main-bg, h3, .main-bg h2{
+    color: #FFF;
 }
