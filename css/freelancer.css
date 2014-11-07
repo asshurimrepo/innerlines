@@ -461,7 +461,7 @@ footer .footer-below {
 .product .presentation img { margin: 0 auto; }
 .copyright { padding-top: 15px; font-size: 20px; }
 .social-icons { font-size: 40px; padding: 0; }
-.success .item { padding: 20px 10px; font-size: 16px; }
+.success .item { padding: 20px 10px; font-size: 16px; white-space: nowrap; }
 .success .item a{ color: #5b5b5b;
     text-decoration: none;
     font-family: "Open Sans";
