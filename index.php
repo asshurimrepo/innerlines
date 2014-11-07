@@ -78,8 +78,10 @@
         </div>
     </section>
 
-    <section style="padding-top:0">
-        <img src="<?=asset('img/layout.jpg')?>" class="img-responsive" style="width:100%">
+    <section class="gradient">
+
+
+
     </section>
 
     <section style="padding-top:0; padding-bottom:150px; "> 
