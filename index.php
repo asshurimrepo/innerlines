@@ -87,25 +87,12 @@
 
     </section>
 
-    <section style="padding-top:0; padding-bottom:150px; "> 
-        <div class="container">
-            <div class="row product">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <div class="head">
-                            <h3 class="heading">Product</h3>
-                            <h4 class="subheading">The Most Popular Sales Marathon Tool</h4>
-                            <p class="blob">Millions of people use SalesMarathon to clarify thinking, manage complex information, run brainstorming and get work organized.</p>
-                        </div>
-                    
-                        <div class="presentation text-center">
-                            <img src="<?=asset('img/laptop.png')?>" class="img-responsive">
-                        </div>
-                    </div>
-                </div>
+    <section id="sales_marathon" class="main-bg">
 
-            </div>
-        </div>
+        <h3 class="heading">SALES MARATHON</h3>
+        <h4>The Most Popular Sales Marathon Tool</h4>
+        <p class="lead">Millions of people use SalesMarathon to clarify thinking, manage complex information, run brainstorming and get work organized.</p>
+
     </section>
 
 

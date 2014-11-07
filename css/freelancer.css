@@ -504,3 +504,8 @@ footer .footer-below {
     background-size: cover;
     min-height: 100px;
 }
+
+.main-bg{
+    background-color: #020025;
+    color: #FFF;
+}
