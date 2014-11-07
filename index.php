@@ -128,7 +128,7 @@
 
 
         <div class="row grid">
-            <div class="col-sm-3 item" style="background-color: #0090f4"></div>
+            <div class="col-sm-2 item" style="background-color: #0090f4"></div>
             <div class="col-sm-3 item" style="background-color: #ffb400;  font-size: 19px;">
 
                 I am very excited and thrilled to get the opportunity of introducing the INNERLINES Experience to the world!!
