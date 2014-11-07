@@ -113,10 +113,10 @@
                 <div class="row">
                     <div class="horizon-slice"></div>
                     <div class="col-sm-6 item"><a href="#">HOME</a></div>
-                    <div class="col-sm-6 item"><a href="#">WORKSHOPS</a></div>
-                    <div class="col-sm-6 item"><a href="#">COACHING COURSES</a></div>
-                    <div class="col-sm-6 item"><a href="#">OUR GOAL</a></div>
-                    <div class="col-sm-6 item"><a href="#">WHY INNERLINES?</a></div>
+                    <div class="col-sm-6 item"><a href="#">INNERLINES EXPERIENCES</a></div>
+                    <div class="col-sm-6 item"><a href="#">DESTINATION</a></div>
+                    <div class="col-sm-6 item"><a href="#">SALES MARATHON</a></div>
+                    <div class="col-sm-6 item"><a href="#">HEART MODEL</a></div>
                     <div class="col-sm-6 item"><a href="#">CONTACT US</a></div>
                 </div>
             </div>
