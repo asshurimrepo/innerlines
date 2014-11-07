@@ -459,10 +459,14 @@ footer .footer-below {
 .product h4 { color: black; text-transform: none; font-size: 25px; margin-top: 80px; }
 .product .blob { max-width: 800px; margin: 0 auto; padding-top: 20px; }
 .product .presentation img { margin: 0 auto; }
-.copyright { padding-top: 18px; }
+.copyright { padding-top: 15px; font-size: 20px; }
 .social-icons { font-size: 40px; padding: 0; }
 .success .item { padding: 20px 10px; font-size: 16px; }
-.success .item a{ color: #5b5b5b; text-decoration: none; }
+.success .item a{ color: #5b5b5b;
+    text-decoration: none;
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-size: 17px; }
 .success .small-contacts img { margin: 0 auto; }
 .success .small-contacts span { padding-top: 5px; display:block; }
 .success .small-contacts { text-align: center; color: #01022c; font-weight: bold; font-family: Myriad Pro; }
