@@ -96,7 +96,7 @@
 
                 <h3 class="heading">SALES MARATHON</h3>
                 <h4>The Most Popular Sales Marathon Tool</h4>
-                <p class="lead">Millions of people use SalesMarathon to clarify thinking, manage complex information, run brainstorming and get work organized.</p>
+                <p style="font-weight: 300; font-family: "Open Sans";">Millions of people use SalesMarathon to clarify thinking, manage complex information, run brainstorming and get work organized.</p>
 
                 <img src="<?=asset( 'img/sales-marathon.jpg' )?>" alt="Sales Marathon, Manager, Sales Representative"/>
             </div>
