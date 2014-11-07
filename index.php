@@ -100,7 +100,7 @@
 
         <div class="row grid">
 
-            <div class="col-sm-1 item" style="background-image: url('<?=asset('img/kid.jpg')?>')"></div>
+            <div class="col-sm-2 item" style="background-image: url('<?=asset('img/kid.jpg')?>')"></div>
             <div class="col-sm-4 item" style="background-image: url('<?=asset('img/approved.jpg')?>')">
 
                 INNERLINES core believe is that any development or achievement, to be efficient and lasting, it should:
@@ -122,7 +122,7 @@
                 <b><em>We are excited and delighted to have you onboard <i class="fa fa-smile-o"></i>… Your True Journeys</em></b>
 
             </div>
-            <div class="col-sm-3 item" style="background-image: url('<?=asset('img/prettygirl.jpg')?>')"></div>
+            <div class="col-sm-2 item" style="background-image: url('<?=asset('img/prettygirl.jpg')?>')"></div>
 
         </div>
 
