@@ -137,7 +137,7 @@
 
             </div>
 
-            <div class="col-sm-5 item">
+            <div class="col-sm-5 item" style="background-image: url('<?=asset('img/people.jpg')?>')">
 
                 <ul>
                     <li><i class="fa fa-circle-o"></i> Our Inner resources: Values and Beliefs, Intentions, Thinking Process, Expectations, Feelings, and Visualization Techniques</li>
@@ -146,6 +146,8 @@
                 </ul>
 
             </div>
+
+            <div class="col-sm-2 item" style="background-image: url('<?=asset('img/smile.jpg')?>')"></div>
 
         </div>
 
