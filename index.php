@@ -78,7 +78,7 @@
         </div>
     </section>
 
-    <section class="gradient">
+    <section class="gradient" id="heart_model">
 
 
 

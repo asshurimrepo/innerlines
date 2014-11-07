@@ -498,3 +498,9 @@ footer .footer-below {
     height: 70px;
     text-align: center;
 }
+
+.gradient{
+    background: url("../img/gradient.jpg") center no-repeat;
+    background-size: cover;
+    min-height: 100px;
+}
