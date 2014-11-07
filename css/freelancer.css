@@ -507,5 +507,5 @@ footer .footer-below {
 
 .main-bg{
     background-color: #020025;
-    color: #FFF;
+    color: #FFF !important;
 }

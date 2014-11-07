@@ -89,9 +89,19 @@
 
     <section id="sales_marathon" class="main-bg">
 
-        <h3 class="heading">SALES MARATHON</h3>
-        <h4>The Most Popular Sales Marathon Tool</h4>
-        <p class="lead">Millions of people use SalesMarathon to clarify thinking, manage complex information, run brainstorming and get work organized.</p>
+
+        <div class="container">
+            <div class="text-center">
+
+
+                <h3 class="heading">SALES MARATHON</h3>
+                <h4>The Most Popular Sales Marathon Tool</h4>
+                <p class="lead">Millions of people use SalesMarathon to clarify thinking, manage complex information, run brainstorming and get work organized.</p>
+
+
+            </div>
+        </div>
+
 
     </section>
 
