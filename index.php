@@ -105,6 +105,8 @@
 
                 INNERLINES core believe is that any development or achievement, to be efficient and lasting, it should:
 
+                <br />
+
                 <ul>
                     <li><i class="fa fa-check-circle"></i> <b>Come from within</b> and</li>
                     <li><i class="fa fa-check-circle"></i> <b>be aligned with External forces. </b></li>

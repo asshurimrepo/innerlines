@@ -522,4 +522,12 @@ footer .footer-below {
     background-size: cover;
     background-position: center;
     height: 260px;
+
+    font-size: 21px;
+    font-family: "Open Sans", serif;
+    padding: 24px;
+}
+
+.grid .item .fa-check-circle{
+    color: #ffb400;
 }
