@@ -127,7 +127,7 @@
         </div>
 
 
-        <div class="row">
+        <div class="row grid">
 
             <div class="col-sm-5 item" style="background-color: #ffb400;">
 
