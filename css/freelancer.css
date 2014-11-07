@@ -535,6 +535,10 @@ footer .footer-below {
     font-weight: 300;
 }
 
+.grid .item b{
+    font-weight: 600;
+}
+
 .grid .item .fa-check-circle{
     color: #ffb400;
 }
