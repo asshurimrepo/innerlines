@@ -98,6 +98,15 @@
 
         </div>
 
+        <div class="row grid">
+
+            <div class="col-sm-1 item" style="background-image: url('<?=asset('img/kid.jpg')?>')"></div>
+            <div class="col-sm-4 item" style="background-image: url('<?=asset('img/approved.jpg')?>')"></div>
+            <div class="col-sm-4 item" style="background: #1a1952"></div>
+            <div class="col-sm-3 item" style="background-image: url('<?=asset('img/prettygirl.jpg')?>')"></div>
+
+        </div>
+
     </section>
 
     <section id="sales_marathon" class="main-bg">
