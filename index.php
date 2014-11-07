@@ -101,7 +101,16 @@
         <div class="row grid">
 
             <div class="col-sm-1 item" style="background-image: url('<?=asset('img/kid.jpg')?>')"></div>
-            <div class="col-sm-4 item" style="background-image: url('<?=asset('img/approved.jpg')?>')"></div>
+            <div class="col-sm-4 item" style="background-image: url('<?=asset('img/approved.jpg')?>')">
+
+                INNERLINES core believe is that any development or achievement, to be efficient and lasting, it should:
+
+                <ul>
+                    <li><i class="fa fa-check-circle"></i> <b>Come from within</b> and</li>
+                    <li><i class="fa fa-check-circle"></i> <b>be aligned with External forces. </b></li>
+                </ul>
+
+            </div>
             <div class="col-sm-4 item" style="background: #1a1952"></div>
             <div class="col-sm-3 item" style="background-image: url('<?=asset('img/prettygirl.jpg')?>')"></div>
 
