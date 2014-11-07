@@ -128,8 +128,8 @@
 
 
         <div class="row grid">
-
-            <div class="col-sm-5 item" style="background-color: #ffb400;  font-size: 19px;">
+            <div class="col-sm-3 item" style="background-color: #0090f4"></div>
+            <div class="col-sm-3 item" style="background-color: #ffb400;  font-size: 19px;">
 
                 I am very excited and thrilled to get the opportunity of introducing the INNERLINES Experience to the world!!
                 INNERLINES Training has a simple mission statement:
