@@ -81,7 +81,7 @@
     <section class="gradient" id="heart_model">
 
         <div class="container">
-            <img src="<?= asset( 'img/heartmodel.png' )?>" alt="Heart Model"/>
+            <img src="<?= asset( 'img/heartmodel.png' )?>" alt="Heart Model" style="margin-bottom: -160px;"/>
         </div>
         <img src="<?= asset( 'img/heartmodels.png' ) ?>" alt="Heart Express Act React Teach" style="width: 100%" />
 
