@@ -126,6 +126,29 @@
 
         </div>
 
+
+        <div class="row">
+
+            <div class="col-sm-5 item" style="background-color: #ffb400;">
+
+                I am very excited and thrilled to get the opportunity of introducing the INNERLINES Experience to the world!!
+                INNERLINES Training has a simple mission statement:
+                <b><em>Guiding your inner focus to endless potential.</em></b>
+
+            </div>
+
+            <div class="col-sm-5 item">
+
+                <ul>
+                    <li><i class="fa fa-circle-o"></i> Our Inner resources: Values and Beliefs, Intentions, Thinking Process, Expectations, Feelings, and Visualization Techniques</li>
+                    <li><i class="fa fa-circle-o"></i> Our Physiology: Expressing new planted inner seeds through body movements and five senses</li>
+                    <li><i class="fa fa-circle-o"></i>	Our interactions with the External forces and effects so it complements and enhances such inner journey</li>
+                </ul>
+
+            </div>
+
+        </div>
+
     </section>
 
     <section id="sales_marathon" class="main-bg">
