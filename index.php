@@ -119,7 +119,7 @@
                 That is why all of our courses and workshops are designed and implemented within a special model: We call it (<span style="color: #ec0000">The HEART Model ™</span>) that achieves the aligning process through managing three aspects:
                 <br />
                 <br />
-                <b><em>We are excited and delighted to have you onboard … Your True Journeys</em></b>
+                <b><em>We are excited and delighted to have you onboard <i class="fa fa-smile-o"></i>… Your True Journeys</em></b>
 
             </div>
             <div class="col-sm-3 item" style="background-image: url('<?=asset('img/prettygirl.jpg')?>')"></div>
