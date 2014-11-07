@@ -140,7 +140,7 @@
             <div class="col-md-4">
                 <div class="horizon-slice"></div>
                 <div class="newsletter">
-                    <h5>SUBSCRIBE TO GET UPDATES FROM OUR BLOG</h5>
+                    <h5 style="font-size:18px; color:#555555">SUBSCRIBE TO GET UPDATES FROM OUR BLOG</h5>
                     <form action="#" method="post">
                         <div class="input-group">
                             <input type="email" name="email" class="form-control"  placeholder="email">
