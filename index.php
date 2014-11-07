@@ -129,7 +129,7 @@
 
         <div class="row grid">
 
-            <div class="col-sm-5 item" style="background-color: #ffb400;">
+            <div class="col-sm-5 item" style="background-color: #ffb400;  font-size: 19px;">
 
                 I am very excited and thrilled to get the opportunity of introducing the INNERLINES Experience to the world!!
                 INNERLINES Training has a simple mission statement:
@@ -137,7 +137,7 @@
 
             </div>
 
-            <div class="col-sm-5 item" style="background-image: url('<?=asset('img/people.jpg')?>')">
+            <div class="col-sm-5 item" style="background-image: url('<?=asset('img/people.jpg')?>');  font-size: 19px;">
 
                 <ul>
                     <li><i class="fa fa-circle-o"></i> Our Inner resources: Values and Beliefs, Intentions, Thinking Process, Expectations, Feelings, and Visualization Techniques</li>
