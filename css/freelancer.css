@@ -516,3 +516,8 @@ footer .footer-below {
 .main-bg h3, .main-bg h4{
     color: #FFF;
 }
+
+.grid .item{
+    background-size: cover;
+    height: 165px;
+}

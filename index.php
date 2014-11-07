@@ -87,6 +87,19 @@
 
     </section>
 
+
+    <section class="main-bg">
+
+        <div class="row grid">
+
+            <div class="col-xs-4 item"><h3><small>INNERLINES</small> EXPERIENCES</h3></div>
+            <div class="col-xs-5 item" style="background-image: url('<?=asset('img/girl.jpg')?>')"></div>
+            <div class="col-xs-3 item" style="background-image: url('<?=asset('img/oldman.jpg')?>')"></div>
+
+        </div>
+
+    </section>
+
     <section id="sales_marathon" class="main-bg">
 
 
