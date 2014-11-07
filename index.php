@@ -140,9 +140,9 @@
             <div class="col-sm-5 item" style="background-image: url('<?=asset('img/people.jpg')?>');  font-size: 19px;">
 
                 <ul>
-                    <li><i class="fa fa-circle-o"></i> Our Inner resources: Values and Beliefs, Intentions, Thinking Process, Expectations, Feelings, and Visualization Techniques</li>
-                    <li><i class="fa fa-circle-o"></i> Our Physiology: Expressing new planted inner seeds through body movements and five senses</li>
-                    <li><i class="fa fa-circle-o"></i>	Our interactions with the External forces and effects so it complements and enhances such inner journey</li>
+                    <li style="margin-bottom: 6px;"><i class="fa fa-circle-o"></i> Our Inner resources: Values and Beliefs, Intentions, Thinking Process, Expectations, Feelings, and Visualization Techniques</li>
+                    <li style="margin-bottom: 6px;"><i class="fa fa-circle-o"></i> Our Physiology: Expressing new planted inner seeds through body movements and five senses</li>
+                    <li style="margin-bottom: 6px;"><i class="fa fa-circle-o"></i>	Our interactions with the External forces and effects so it complements and enhances such inner journey</li>
                 </ul>
 
             </div>
