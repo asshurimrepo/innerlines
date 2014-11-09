@@ -2,23 +2,25 @@
 
 
     <!-- Header -->
-    <header style="background: url('<?=asset('img/full-image.jpg')?>') no-repeat center; background-size: cover; min-height: 700px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- <img class="img-responsive" src="img/profile.png" alt=""> -->
-                    <div class="intro-text">
-                        <span class="name">YOUR TRUE JOURNEY</span>
-                        <!-- <hr class="star-light"> -->
-                        <span class="skills">Guiding your inner focus</span>
-                        <a href="#"><img class="img-responsive" src="<?=asset('img/book-button.png')?>" alt=""></a>
+    <div id="home">
+        <header style="background: url('<?=asset('img/full-image.jpg')?>') no-repeat center; background-size: cover; min-height: 700px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- <img class="img-responsive" src="img/profile.png" alt=""> -->
+                        <div class="intro-text">
+                            <span class="name">YOUR TRUE JOURNEY</span>
+                            <!-- <hr class="star-light"> -->
+                            <span class="skills">Guiding your inner focus</span>
+                            <a href="#"><img class="img-responsive" src="<?=asset('img/book-button.png')?>" alt=""></a>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </header>
+        </header>
+    </div>
 
-    <section style="padding-bottom:0">
+    <section id="destination" style="padding-bottom:0">
         <div class="container">
             <div class="row destination">
                 <div class="col-sm-6">
@@ -88,7 +90,7 @@
     </section>
 
 
-    <section class="main-bg">
+    <section id="experience" class="main-bg">
 
         <div class="row grid">
 
@@ -172,8 +174,8 @@
     </section>
 
 
-    <!-- About Section -->
-    <section class="success" id="about" style="padding-bottom: 10px;">
+    <!-- Contact Section -->
+    <section class="success" id="contact" style="padding-bottom: 10px;">
         <div class="container" style="margin-top: 113px;">
             <div class="col-md-4">
                 <div class="row">
