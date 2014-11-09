@@ -62,10 +62,10 @@
 					<a href="#home">Home</a>
 				</li>
 				<li class="page-scroll">
-					<a href="#experience">Innerlines Experience</a>
+					<a href="#destination">Destination</a>
 				</li>
 				<li class="page-scroll">
-					<a href="#destination">Destination</a>
+					<a href="#experience">Innerlines Experience</a>
 				</li>
 				<li class="page-scroll">
 					<a href="#contact">Contact</a>
