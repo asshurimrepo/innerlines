@@ -1,6 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<!--[if IE 7]>
+<html class="ie ie7" <?php language_attributes(); ?>>
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" <?php language_attributes(); ?>>
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html <?php language_attributes(); ?>>
+<!--<![endif]-->
 <head>
 
 	<meta charset="utf-8">
@@ -8,8 +15,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
 	<meta name="author" content="">
-
-	<title>Innerlines - Guiding your inner focus</title>
+	<meta charset="<?php bloginfo( 'charset' ); ?>" />
+	<title><?php bloginfo('name'); ?>  <?php wp_title(); ?></title>
 
 	<!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
 	<?=link_css('css/bootstrap.min.css')?>
