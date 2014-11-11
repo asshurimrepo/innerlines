@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 
-
     <!-- Header -->
     <div id="home">
         <header style="background: url('<?=asset('img/full-image.jpg')?>') no-repeat center; background-size: cover; min-height: 700px;">
@@ -180,12 +179,12 @@
             <div class="col-md-4">
                 <div class="row">
                     <div class="horizon-slice"></div>
-                    <div class="col-sm-6 item"><a href="#">HOME</a></div>
-                    <div class="col-sm-6 item"><a href="#">INNERLINES EXPERIENCES</a></div>
-                    <div class="col-sm-6 item"><a href="#">DESTINATION</a></div>
-                    <div class="col-sm-6 item"><a href="#">SALES MARATHON</a></div>
-                    <div class="col-sm-6 item"><a href="#">HEART MODEL</a></div>
-                    <div class="col-sm-6 item"><a href="#">CONTACT US</a></div>
+                    <div class="col-sm-6 item page-scroll"><a href="#home">HOME</a></div>
+                    <div class="col-sm-6 item page-scroll"><a href="#experience">INNERLINES EXPERIENCES</a></div>
+                    <div class="col-sm-6 item page-scroll"><a href="#destination">DESTINATION</a></div>
+                    <div class="col-sm-6 item page-scroll"><a href="#sales_marathon">SALES MARATHON</a></div>
+                    <div class="col-sm-6 item page-scroll"><a href="#heart_model">HEART MODEL</a></div>
+                    <div class="col-sm-6 item page-scroll"><a href="#contact">CONTACT US</a></div>
                 </div>
             </div>
             <div class="col-md-4 small-contacts" style="margin-top: -220px;">
