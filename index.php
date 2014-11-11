@@ -187,10 +187,15 @@
                     <div class="col-sm-6 item page-scroll"><a href="#contact">CONTACT US</a></div>
                 </div>
             </div>
+
             <div class="col-md-4 small-contacts" style="margin-top: -220px;">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="<?=asset('img/smile-face.png')?>" class="img-responsive smile-face">
+                        <a href="#" data-toggle="modal" data-target="#about-modal">
+                            <img src="<?=asset('img/smile-face.png')?>" class="img-responsive smile-face">
+
+
+                        </a>
                     </div>
                 </div>
                 <div class="row">
@@ -221,5 +226,6 @@
         </div>
     </section>
 
+<?php include('modals/about.php'); ?>
 
 <?php get_footer(); ?>

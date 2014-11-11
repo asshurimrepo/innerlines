@@ -542,3 +542,30 @@ footer .footer-below {
 .grid .item .fa-check-circle{
     color: #ffb400;
 }
+
+#about-modal .modal-content{
+    color: #000;
+    background: #f2f2f2; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f2f2f2 12%, #979797 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(12%,#f2f2f2), color-stop(100%,#979797)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #f2f2f2 12%,#979797 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #f2f2f2 12%,#979797 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #f2f2f2 12%,#979797 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #f2f2f2 12%,#979797 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#979797',GradientType=0 ); /* IE6-9 */
+}
+#about-modal h4,
+#about-modal h5 { color: #000; }
+#about-modal .title { margin-bottom: 20px; }
+#about-modal .title h4 { font-size: 30px; }
+#about-modal .title span{ font-size: 25px; font-weight: normal; }
+#about-modal p{
+    font-size: 14px;
+}
+
+#about-modal .close {
+    position: relative;
+    top: -17px;
+    left: 18px;
+    opacity: 1;
+}
