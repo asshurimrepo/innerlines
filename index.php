@@ -11,7 +11,7 @@
                             <span class="name">YOUR TRUE JOURNEY</span>
                             <!-- <hr class="star-light"> -->
                             <span class="skills">Guiding your inner focus</span>
-                            <a href="#"><img class="img-responsive" src="<?=asset('img/book-button.png')?>" alt=""></a>
+                            <a href="" data-toggle="modal" data-target="#booking-modal"><img class="img-responsive" src="<?=asset('img/book-button.png')?>" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -193,8 +193,6 @@
                     <div class="col-md-12">
                         <a href="#" data-toggle="modal" data-target="#about-modal">
                             <img src="<?=asset('img/smile-face.png')?>" class="img-responsive smile-face">
-
-
                         </a>
                     </div>
                 </div>
@@ -226,6 +224,14 @@
         </div>
     </section>
 
+<style>
+    .bk_calendar_frame { width:560px !important; }
+    .booking_form_div .controls input,
+    .booking_form_div .controls textarea{ width: 100%; }
+    .submiting_content { height: 80px !important; }
+</style>
 <?php include('modals/about.php'); ?>
+
+<?php include('modals/booking.php'); ?>
 
 <?php get_footer(); ?>

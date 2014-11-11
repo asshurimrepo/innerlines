@@ -37,11 +37,17 @@
 	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<![endif]-->
 
+	<!-- jQuery Version 1.11.0 -->
+	<?/*=link_js("js/jquery-1.11.0.js")*/?>
+
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+	<?php wp_head(); ?>
 </head>
 
 <body id="page-top" class="index">
 
-<div class="pads hidden-xs" style="padding-top: 120px;"></div>
+<div class="pads hidden-xs" style="padding-top: 92px;"></div>
 <div class="pads visible-xs" style="padding-top: 65px;"></div>
 
 <!-- Navigation -->

@@ -30,8 +30,7 @@
 	</a>
 </div>
 
-<!-- jQuery Version 1.11.0 -->
-<?=link_js("js/jquery-1.11.0.js")?>
+
 
 <!-- Bootstrap Core JavaScript -->
 <?=link_js("js/bootstrap.min.js")?>
@@ -47,7 +46,7 @@
 
 <!-- Custom Theme JavaScript -->
 <?=link_js("js/freelancer.js")?>
-
+<?php wp_footer(); ?>
 </body>
 
 </html>
